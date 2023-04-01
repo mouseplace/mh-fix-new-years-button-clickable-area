@@ -4,6 +4,6 @@ A Userscript for [MouseHunt](https://mousehuntgame.com) to fix the clickable are
 
 ## Installation
 
-Install via [GreasyFork](https://greasyfork.org/en/scripts/457265-mousehunt-fix-new-year-s-button-clickable-area)
+Install via [GreasyFork](https://greasyfork.org/en/scripts/457265-mousehunt-fix-new-year-s-button-clickable-area).
 
 *You must have [ViolentMonkey](https://violentmonkey.github.io/) or another userscript manager installed.*
